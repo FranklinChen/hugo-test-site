@@ -4,4 +4,6 @@ draft = true
 title = "first"
 
 +++
+## First post
 
+This is a post in `post/first.md` through running `hugo new post/first.md`.
