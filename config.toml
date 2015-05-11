@@ -10,7 +10,7 @@ disqusShortname = "franklinchenshugotestsite"
 name = "Franklin Chen's Hugo Test Site"
 
 [permalinks]
-post = "/post/:year/:month/:day/:title/"
+post = "/blog/:year/:month/:day/:title/"
 
 [indexes]
 category = "categories"
