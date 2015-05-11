@@ -1,3 +1,37 @@
-baseurl = "http://yourSiteHere/"
+theme = "hyde-x"
+
+baseurl = "http://franklinchen.github.io/hugo-test-site"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Franklin Chen's Hugo Test Site"
+pygmentsstyle = "default"
+disqusShortname = "franklinchenshugotestsite"
+
+[author]
+name = "Franklin Chen's Hugo Test Site"
+
+[permalinks]
+post = "/post/:year/:month/:day/:title/"
+
+[indexes]
+category = "categories"
+
+[params]
+defaultDescription = "Franklin Chen's Hugo test site for experiments"
+defaultKeywords = "Franklin Chen, testing, Hugo, blog"
+
+gravatarHash = "f8a7ccb41af2422d10599464b96cf034"
+
+theme = "theme-base-0e"
+
+highlight = "default"
+tagline = "Because testing stuff is important"
+
+googleAuthorship = "100967806642012078047"
+googleAnalytics = ""
+
+github = "https://github.com/FranklinChen"
+linkedin = "http://www.linkedin.com/in/franklinchen"
+googleplus = "http://google.com/+FranklinChen"
+facebook = "http://www.facebook.com/franklin.chen"
+twitter = "http://twitter.com/franklinchen"
+
